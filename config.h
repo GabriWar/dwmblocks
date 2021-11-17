@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	/*{"",	"sb-moonphase",	18000,	17},*/ 
-	{"", "sb-kbselect", 0, 30},
+	{"|", "sb-kbselect", 0, 30},
 	{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
 	{"",	"sb-tasks",	10,	26},
 	{"",	"sb-music",	0,	11},
